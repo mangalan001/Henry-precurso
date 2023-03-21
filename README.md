@@ -1,2 +1,2 @@
-# Herny-precurso
-Este es un repositorio de prueba
+Este proyecto es prueba de repositorio
+
